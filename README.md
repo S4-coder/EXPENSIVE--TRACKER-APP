@@ -49,7 +49,7 @@
 
 ```bash
 # Repository clone karo
-git clone https://github.com/yourusername/expensewise.git
+git clone https://github.com/S4-coder/EXPENSIVE--TRACKER-APP
 
 # open folder
 cd expensewise
