@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enhanced Expense Tracker</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1><i class="fas fa-wallet"></i> Expense Tracker</h1>
+            <button id="theme-toggle" class="theme-toggle">
+                <i class="fas fa-moon"></i>
+            </button>
+        </div>
+        <form id="expense-form">
+            <input type="number" id="expense-amount" placeholder="Amount" step="0.01" required>
+            <input type="text" id="expense-description" placeholder="Description" required>
+            <select id="expense-category" required>
+                <option value="">Select Category</option>
+                <option value="food">🍔 Food</option>
+                <option value="transport">🚗 Transport</option>
+                <option value="utilities">🏠 Utilities</option>
+                <option value="entertainment">🎮 Entertainment</option>
+                <option value="other">📦 Other</option>
+            </select>
+            <input type="date" id="expense-date" required>
+            <button type="submit"><i class="fas fa-plus"></i> Add Expense</button>
+        </form>
+        <div id="total-display">Total Expenses: $0.00</div>
+        <ul id="expense-list"></ul>
+    </div>
+    <script src="js/app.js"></script>
+</body>
+</html>
+
+
