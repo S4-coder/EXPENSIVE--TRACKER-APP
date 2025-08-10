@@ -36,11 +36,14 @@
 - Automatic data saving
 - Smooth animations
 
-## 📱 Screenshots
+## 📱 App Themes
 
-| Light Mode | Dark Mode |
-|:-:|:-:|
-| ![Light](path/to/LIGHTTHEME.png) | ![Dark](path/to/DARKTHEME.png) |
+<div align="center">
+  <img src="./assets/LIGTH THEME.PN" alt="Light Theme" width="45%"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/DARK THEME.png" alt="Dark Theme" width="45%"/>
+  <p><em>Light and Dark themes for comfortable viewing</em></p>
+</div>
 
 ## 🚀 HOW TO START 
 
