@@ -16,7 +16,7 @@
 
 ---
 
-## ✨ Kya Kya Kar Sakte Ho?
+## ✨ what all can you do?
 
 🎯 **Expense Management**
 - Track where your money goes
