@@ -39,9 +39,9 @@
 ## 📱 App Themes
 
 <div align="center">
-  <img src="./assets/LIGTH THEME.PN" alt="Light Theme" width="45%"/>
+  <img src="C:\Users\Mohd Imad\OneDrive\Desktop\expense tracker app\assets\DARK THEME.png" alt="dark Theme" width="45%"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="./assets/DARK THEME.png" alt="Dark Theme" width="45%"/>
+  <img src="./C:\Users\Mohd Imad\OneDrive\Desktop\expense tracker app\assets\LIGHT THEME.png" alt="lighht Theme" width="100%"/>
   <p><em>Light and Dark themes for comfortable viewing</em></p>
 </div>
 
